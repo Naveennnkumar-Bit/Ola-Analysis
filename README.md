@@ -34,7 +34,14 @@ This project analyzes **ride cancellations in Ola**, focusing on key factors aff
   - **Driver Ratings & Performance**
 
 ## 📷 **Project Screenshots**
-*(Include images of your SQL queries, Power BI dashboard, and key visualizations.)*
+### 📊 SQL Analysis
+![SQL Analysis](images/sql_analysis.png)
+
+### 📈 Power BI Dashboard - Booking Trends
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+### 📉 Cancellation Trends Visualization
+![Cancellation Trends](images/cancellation_trends.png)
 
 ## 🚀 **How to Use This Project**
 1. **Clone the Repository**  
