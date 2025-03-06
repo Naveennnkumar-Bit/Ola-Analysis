@@ -38,13 +38,6 @@ This project analyzes **ride cancellations in Ola**, focusing on key factors aff
 ![SQL Analysis](images/sql_analysis.png)
 
 ### 📈 Power BI Dashboard - Booking Trends
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard]([images/powerbi_dashboard.png](https://github.com/Naveennnkumar-Bit/Ola-Analysis/blob/main/OLA1.png))
 
-### 📉 Cancellation Trends Visualization
-![Cancellation Trends](images/cancellation_trends.png)
 
-## 🚀 **How to Use This Project**
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/Naveennnkumar-Bit/Finance_KPI_Dashboard.git
-   cd Ola-Ride-Cancellation-Analysis
