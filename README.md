@@ -3,6 +3,15 @@
 ## 📢 Overview  
 This project analyzes **ride cancellations in Ola**, focusing on key factors affecting booking success. It combines **SQL, Power BI, and Excel** to uncover trends in customer and driver behavior, cancellation reasons, and overall business performance.  
 
+## 📷 Project Screenshots  
+
+### 📊 SQL Analysis  
+![SQL Analysis](https://github.com/Naveennnkumar-Bit/Ola-Analysis/blob/main/OLA3.png?raw=true)  
+
+### 📈 Power BI Dashboard - Booking Trends  
+![Power BI Dashboard](https://github.com/Naveennnkumar-Bit/Ola-Analysis/blob/main/OLA1.png?raw=true)  
+
+
 ## 📊 Key Insights  
 - 📌 **Cancellation Trends** – Analyzed ride cancellations by drivers and customers.  
 - 📌 **Booking Patterns** – Identified top repeat customers and their behavior.  
@@ -34,10 +43,4 @@ This project analyzes **ride cancellations in Ola**, focusing on key factors aff
   - 📌 **Customer Insights**  
   - 📌 **Driver Ratings & Performance**  
 
-## 📷 Project Screenshots  
 
-### 📊 SQL Analysis  
-![SQL Analysis](https://github.com/Naveennnkumar-Bit/Ola-Analysis/blob/main/OLA3.png?raw=true)  
-
-### 📈 Power BI Dashboard - Booking Trends  
-![Power BI Dashboard](https://github.com/Naveennnkumar-Bit/Ola-Analysis/blob/main/OLA1.png?raw=true)  
