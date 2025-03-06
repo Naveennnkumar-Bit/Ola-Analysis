@@ -37,7 +37,4 @@ This project analyzes **ride cancellations in Ola**, focusing on key factors aff
 ### 📊 SQL Analysis
 ![SQL Analysis](images/sql_analysis.png)
 
-### 📈 Power BI Dashboard - Booking Trends
-![Power BI Dashboard]([images/powerbi_dashboard.png](https://github.com/Naveennnkumar-Bit/Ola-Analysis/blob/main/OLA1.png))
-
-
+### 📈 Power BI Dashboard - Booking Trends![Power BI Dashboard](https://github.com/Naveennnkumar-Bit/Ola-Analysis/blob/main/OLA1.png?raw=true)
